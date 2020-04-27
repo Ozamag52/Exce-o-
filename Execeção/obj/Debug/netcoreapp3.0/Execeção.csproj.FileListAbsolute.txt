@@ -1,0 +1,11 @@
+E:\CURSO C#\Seção 11 - Exceções\Execeção\Execeção\bin\Debug\netcoreapp3.0\Execeção.exe
+E:\CURSO C#\Seção 11 - Exceções\Execeção\Execeção\bin\Debug\netcoreapp3.0\Execeção.deps.json
+E:\CURSO C#\Seção 11 - Exceções\Execeção\Execeção\bin\Debug\netcoreapp3.0\Execeção.runtimeconfig.json
+E:\CURSO C#\Seção 11 - Exceções\Execeção\Execeção\bin\Debug\netcoreapp3.0\Execeção.runtimeconfig.dev.json
+E:\CURSO C#\Seção 11 - Exceções\Execeção\Execeção\bin\Debug\netcoreapp3.0\Execeção.dll
+E:\CURSO C#\Seção 11 - Exceções\Execeção\Execeção\bin\Debug\netcoreapp3.0\Execeção.pdb
+E:\CURSO C#\Seção 11 - Exceções\Execeção\Execeção\obj\Debug\netcoreapp3.0\Execeção.csprojAssemblyReference.cache
+E:\CURSO C#\Seção 11 - Exceções\Execeção\Execeção\obj\Debug\netcoreapp3.0\Execeção.AssemblyInfoInputs.cache
+E:\CURSO C#\Seção 11 - Exceções\Execeção\Execeção\obj\Debug\netcoreapp3.0\Execeção.AssemblyInfo.cs
+E:\CURSO C#\Seção 11 - Exceções\Execeção\Execeção\obj\Debug\netcoreapp3.0\Execeção.dll
+E:\CURSO C#\Seção 11 - Exceções\Execeção\Execeção\obj\Debug\netcoreapp3.0\Execeção.pdb
